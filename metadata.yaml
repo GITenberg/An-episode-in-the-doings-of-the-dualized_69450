@@ -1,0 +1,35 @@
+_repo: An-episode-in-the-doings-of-the-dualized_69450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mason, Eveleen Laura
+    aliases:
+    - Mason, E. L.
+    - Mason, E.L.
+    - Mason, Eveleen Laura Knaggs
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '55255'
+    url: http://www.gutenberg.org/2009/agents/55255
+description: ''
+gutenberg_issued: '2022-11-30'
+identifiers:
+  gutenberg: '69450'
+language: en
+pgterms:marc904: https://archive.org/details/anepisodeindoin00masogoog
+pgterms:marc905: 20190622112943mason
+pgterms:marc906: '1898'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: privately published,1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aphasia -- Fiction'
+- !lcsh 'Paralysis -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: An episode in the doings of the dualized
+url: http://www.gutenberg.org/ebooks/69450
